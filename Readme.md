@@ -46,6 +46,7 @@ Ensure you have the following installed on your machine:
 
     Ensure you have the list of phone numbers in a phone_number.csv file.
     Run the script group_add_members.py using the command:
+    
     ```bash
     python group_add_members.py
     ```
@@ -56,7 +57,9 @@ Ensure you have the following installed on your machine:
     ```bash
     python individual_message_sender.py
     ```
+
 ## File Structure
+
     ```bash
     /
     .
