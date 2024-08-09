@@ -41,7 +41,7 @@ Ensure you have the following installed on your machine:
     ```bash
     pip install -r requirements.txt
     ```
-3. Running the Scripts
+## Running the Scripts
     Add Members to WhatsApp Group:
 
     Ensure you have the list of phone numbers in a phone_number.csv file.
@@ -56,7 +56,7 @@ Ensure you have the following installed on your machine:
     ```bash
     python individual_message_sender.py
     ```
-4. File Structure
+## File Structure
     ```bash
     /
     .
